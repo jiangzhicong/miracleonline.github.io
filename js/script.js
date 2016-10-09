@@ -1,5 +1,4 @@
 (function($){
-  window.location.href = 'http://jiangzhicong.com';
   // Search
   var $searchWrap = $('#search-form-wrap'),
     isSearchAnim = false,
